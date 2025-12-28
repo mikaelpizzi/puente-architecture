@@ -290,7 +290,7 @@ function ArchitectureSection() {
                         <FeatureCard
                             icon={<Layers className="w-6 h-6" />}
                             title="Microservices"
-                            description="4 independent NestJS services with strict dependency injection and clean architecture."
+                            description="6 independent NestJS services with strict dependency injection and clean architecture."
                         />
 
                         <FeatureCard
